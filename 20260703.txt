@@ -1,0 +1,83 @@
+◆ URLに関する問題（1問）
+Q1. URLの構成要素として正しいものはどれか。
+
+プロトコル・ドメイン名・パス
+
+HTML・CSS・JavaScript
+
+画像・動画・音声
+
+サーバー・クライアント・ブラウザ
+
+タグ・属性・値
+
+◆ HTMLの基本構造に関する問題（2問）
+Q2. HTML文書の最上位に必ず記述する宣言はどれか。
+
+<doctype html>
+
+<!DOCTYPE html>
+
+<HTML>
+
+<meta charset="UTF-8">
+
+<head>
+
+Q3. HTMLの基本構造として正しい組み合わせはどれか。
+
+<header>, <main>, <footer>
+
+<html>, <head>, <body>
+
+<div>, <span>, <p>
+
+<section>, <article>, <aside>
+
+<title>, <link>, <script>
+
+◆ CSSの基本に関する問題（3問）
+Q4. CSSで文字色を指定するプロパティはどれか。
+
+font-size
+
+background-color
+
+color
+
+text-align
+
+border-color
+
+Q5. CSSをHTMLに適用する方法として正しいものはどれか。
+
+JavaScriptで読み込む
+
+<style>タグを使う
+
+<css>タグを使う
+
+<meta>タグで指定する
+
+<script>タグで読み込む
+
+
+Q6. CSSでクラスを指定する際に使う記号はどれか。
+
+#
+
+.
+
+*
+
+@
+
+:
+
+◆解答
+1 → 
+2 → 
+3 → 
+4 → 
+5 → 
+6 → 
