@@ -57,7 +57,7 @@ JavaScriptで読み込む
 
 <css>タグを使う
 
-<meta>タグで指定する
+
 
 <script>タグで読み込む
 
@@ -72,14 +72,13 @@ Q6. CSSでクラスを指定する際に使う記号はどれか。
 
 @
 
-:
+
 Q7. github上で公開している自分のホームページＵＲＬを教えてください
 
-◆解答
-1 → 
-2 → 
-3 → 
-4 → 
-5 → 
-6 → 
-7　→
+1 →HTML・CSS・JavaScript
+2 → <doctype html>
+3 → <html>, <head>, <body>
+4 → font-size
+5 → <meta>タグで指定する
+6 → :
+7　→https://github.com/ToruKurita/Quize0629.git
